@@ -1,1 +1,1 @@
-Git is a distributed  tracking changes version-control system for tracking changes in source code during software development. 
+Git is a distributed  tracking changes git does not create an extra merge commit when  version-control system for tracking changes in source code during software development. 
